@@ -1,6 +1,6 @@
 # Guess the Accent!
 
-[Play the game](https://natpsr.github.io/guess-the-accent/)
+[Play the game](https://natpsr.github.io/BUULI-guess-the-accent/)
 
 A BUULI listening adventure for Burapha University Open House.
 

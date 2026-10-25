@@ -22,8 +22,8 @@ Understanding and listening-experience answers are kept only in memory and
 shown in the results. Restarting or refreshing clears them.
 
 PUBLICATION
-Published website: https://natpsr.github.io/guess-the-accent/
-Repository: https://github.com/natpsr/guess-the-accent
+Published website: https://natpsr.github.io/BUULI-guess-the-accent/
+Repository: https://github.com/natpsr/BUULI-guess-the-accent
 The public site was verified with a complete five-speaker playthrough.
 All five original recordings started playback successfully on the public site.
 QR PNG, vector SVG, and printable poster are supplied alongside this project.
