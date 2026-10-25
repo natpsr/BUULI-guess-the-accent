@@ -1,0 +1,46 @@
+GUESS THE ACCENT! — Burapha University Open House
+
+Play locally: open index.html in a browser. Keep the assets folder beside it.
+The entire game works without a login, database, analytics, or external services.
+
+Your five original recordings are included, unchanged:
+assets/audio/voice-1.mp3 — American English
+assets/audio/voice-2.mp3 — British English
+assets/audio/voice-3.mp3 — Indian English
+assets/audio/voice-4.mp3 — Korean English
+assets/audio/voice-5.mp3 — Chinese English
+
+TO REPLACE A RECORDING
+The easiest option: send the new MP3 to this chat and say which accent it replaces.
+No code editing is needed. The matching file can be replaced and the website
+republished while preserving the website address and visitor QR code.
+If replacing files yourself, use the matching filename above and keep MP3 format.
+
+SCORING
+Only the accent guess counts: 20 points per correct answer, maximum 100.
+Understanding and listening-experience answers are kept only in memory and
+shown in the results. Restarting or refreshing clears them.
+
+PUBLICATION
+This folder is ready for static hosting on GitHub Pages. It is not yet published.
+GitHub sign-in is required before a repository and public URL can be created.
+A visitor QR code should be generated only after the final public URL is verified.
+
+VERIFICATION
+Passed: 1,000 randomized game simulations; every score level; two distinct
+accent options with the correct one always present; random speaker order and
+option positions; five and six choices for the unscored questions.
+Browser: completed all 15 questions, started playback of all five supplied MP3s,
+verified results, preserved experience answers, and clean Play Again reset.
+Playback is configured to 0.8x with pitch preservation where supported.
+Physical iPhone/Android playback and narrow-phone viewport validation remain pending.
+No claim of auditory accent analysis is made. Review cards currently provide
+phrase-specific listening prompts, rather than verified accent explanations.
+These explanations still need a human listening review before event release.
+
+FILES
+index.html, style.css, game.js — the game
+assets/audio — five original recordings (neutral names avoid giving clues)
+assets/mascots — nine transparent crops from the supplied BUULI sheet
+No mascot artwork was regenerated or redesigned.
+test-game.cjs — automated checks for scoring and randomization
