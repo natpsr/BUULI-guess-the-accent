@@ -46,3 +46,7 @@ assets/audio — five original recordings (neutral names avoid giving clues)
 assets/mascots — nine transparent crops from the supplied BUULI sheet
 No mascot artwork was regenerated or redesigned.
 test-game.cjs — automated checks for scoring and randomization
+
+
+UI refinement: compact answer cards; upright, proportionally scaled BUULI; stacked transitions and results; centered Language Institute footer. Audio starts on Start Game / Next Speaker / Play Again where allowed, with Tap to Play fallback. Selection and question navigation do not restart audio.
+Validated at 320, 390, 768 and 1280 pixel layout widths. Autoplay denial and recovery were simulated in automated tests; physical iPhone and Android testing is not claimed.
